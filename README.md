@@ -81,9 +81,6 @@ Help:
 
 <!-- CONTACT -->
 ## Contact
-
-0xGast - [prepakis.geo@gmail.com](mailto:prepakis.geo@gmail.com)
-
 Project Link: [https://github.com/0xG4st/Malig/](https://github.com/0xG4st/Malig/)
 
 [contributors-shield]: https://img.shields.io/github/contributors/deidal0s/Payload-Crafter.svg?style=for-the-badge
